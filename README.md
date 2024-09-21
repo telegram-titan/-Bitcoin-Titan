@@ -23,6 +23,19 @@ To use this repository and deploy your own **BTC** tokens, follow these steps:
 
 1. Fork and clone the repository:
    ```bash
+
+
+## Token Distribution
+
+The distribution of **Bitcoin Titan (BTC)** tokens follows a halving model, inspired by the original Bitcoin distribution:
+
+- **Manual Distribution (Current Phase)**: Each distribution is manually done with **50 BTC tokens** per transaction.
+- **First Halving**: Once the community reaches **10,000 members**, the distribution amount will be halved to **25 BTC per transaction**.
+- **Second Halving**: After **20,000 members**, the distribution will reduce to **12.5 BTC** per transaction.
+- **Third Halving**: At **30,000 members**, the amount will again be halved to **6.25 BTC** per transaction.
+
+The halving process helps ensure a controlled, gradual release of tokens and rewards early adopters.
+
    git clone https://github.com/[your-github-username]/ton-collection-edit.git
 # -Bitcoin-Titan
 A no-code version of Bitcoin Titan, a ceremonial token within the Telegram Titans ecosystem.
